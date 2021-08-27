@@ -1,2 +1,2 @@
-# mc536
-Laboratórios de MC536
+# Aluno
+ - Artur Abreu Hendler
