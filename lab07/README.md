@@ -2,7 +2,7 @@
 * 231713 : Artur Abreu Hendler
 
 ## Modelo Lógico do Banco de Dados de Grafos
-![Diagrama de Orquestração](images/modelo-logico-grafos.png)
+![Diagrama de Orquestração](images/modelo-logico-grafo.png)
 
 ## Perguntas de Pesquisa/análise
 
