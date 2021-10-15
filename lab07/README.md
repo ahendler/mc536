@@ -6,7 +6,7 @@
 
 ## Perguntas de Pesquisa/análise
 
-> Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+Três perguntas de pesquisa/análise:
+ * Qual a chance de um jogador avançar em determinado torneio (quantidade de setas para match)?
+ * Dificuldade de se avançar em um torneio em relação a outro
+ * Como o local de torneio e o local de nascimento do jogador afeta seu desempenho? 
